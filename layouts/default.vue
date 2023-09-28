@@ -7,7 +7,6 @@
                 class="align-end text-white"
                 height="60"
                 width = "200"
-                src="../pages/marvel.png"
                 cover
               >
         </v-img>  

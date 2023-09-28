@@ -158,7 +158,7 @@ export default {
       } else {
         for (let i = 0; i < 3; i++) {
           const item = found.series.items[i]
-          summary = summary + (i + 1) + ') ' + item.name + '- '
+          summary = summary + (i + 1) + ') <br> ' + item.name + '- '
         }
       }
 
